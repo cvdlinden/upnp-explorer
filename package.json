@@ -1,6 +1,6 @@
 {
   "name": "test-ssdp",
-  "version": "1.6.3",
+  "version": "1.6.4",
   "description": "Testing Node with SSDP",
   "main": "index.js",
   "type": "module",
@@ -12,8 +12,8 @@
   },
   "license": "GPL-3.0",
   "dependencies": {
-    "express": "^4.22.2",
-    "fast-xml-parser": "^5.11.0"
+    "express": "^4.22.3",
+    "fast-xml-parser": "^5.11.1"
   },
   "devDependencies": {
     "@eslint/css": "^0.14.1",
